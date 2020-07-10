@@ -45,7 +45,7 @@ extensions = [
     'sphinx.ext.autosummary',
     'sphinx.ext.napoleon',
     'sphinx.ext.intersphinx',
-    'sphinx_gallery.gen_gallery',
+#    'sphinx_gallery.gen_gallery',
     'sphinx.ext.autosectionlabel'
 ]
 autosectionlabel_prefix_document = True
@@ -98,8 +98,8 @@ html_theme_options = {
     "collapse_navigation": False,
 }
 sphinx_gallery_conf = {
-    'examples_dirs': '_examples',  # path to examples scripts
-    'gallery_dirs': 'examples',   # path to gallery generated examples
+#    'examples_dirs': '_examples',  # path to examples scripts
+#    'gallery_dirs': 'examples',   # path to gallery generated examples
     'backreferences_dir': 'modules/generated',  # path to store the module
                                              # using example template
     'doc_module': ('mkla',),  # documented module(s)
