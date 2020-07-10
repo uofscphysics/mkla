@@ -1,0 +1,22 @@
+
+
+Examples using ``sntd.Survey.plot_survey_contour``
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Simulate cosmological constraints from a sample of lensed SN. ">
+
+.. only:: html
+
+ .. figure:: /examples/images/thumb/sphx_glr_plot_survey_thumb.png
+
+     :ref:`sphx_glr_examples_plot_survey.py`
+
+.. raw:: html
+
+    </div>
+
+.. only:: not html
+
+ * :ref:`sphx_glr_examples_plot_survey.py`
