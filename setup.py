@@ -18,7 +18,7 @@ if sys.version_info < (3,0):
 
 AUTHOR = 'Douglas Adams and Justin Pierel'
 AUTHOR_EMAIL = 'douglasquincyadams@gmail.com'
-VERSION = '0.0.2'
+VERSION = '0.0.3'
 LICENSE = 'BSD'
 URL = 'mkla.readthedocs.io'
 
